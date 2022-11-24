@@ -1,9 +1,9 @@
 # Site settings
-title: Great New Blog Title
+title: First Website
 author:
   name: Somil Varshney
   email: your-email@domain.com
 description: "Great site about Jekyll on GH-Pages."
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll/minimal
